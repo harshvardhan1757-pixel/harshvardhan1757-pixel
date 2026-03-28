@@ -1,4 +1,4 @@
-# Hi, I'm Harsh! 👋
+# Hi, I'm Harsh Vardhan Rai! 👋
 
 ### 👨‍💻 B.Tech CSE (AI & ML) Student @ VIT Bhopal
 
