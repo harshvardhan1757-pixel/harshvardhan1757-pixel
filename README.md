@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Harsh! 👋
 
-<!--
-**harshvardhan1757-pixel/harshvardhan1757-pixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 B.Tech CSE (AI & ML) Student @ VIT Bhopal
 
-Here are some ideas to get you started:
+I am an aspiring AI Developer and Content Creator focused on building a personal brand ecosystem.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤖 **Currently working on:** JARVIS (A personal AI assistant using Python).
+- 🧠 **Interests:** Machine Learning, Video Editing (DaVinci Resolve/VN), and Fitness.
+- 🚀 **Goal:** Developing "Wardrobe Maker" – my dream project app.
+- ⚡ **Fun Fact:** I love making cinematic gym edits!
+
+---
+### 🛠️ Skills
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![Machine Learning](https://img.shields.io/badge/AI%20%26%20ML-Robot?style=for-the-badge&color=green)
